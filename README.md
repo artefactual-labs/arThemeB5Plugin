@@ -10,7 +10,7 @@ Requires an AtoM version of 2.7, or up, to include such theme.
 Clone repository **_within AtoM's plugin folder_** and delete git related files.
 
   ```
-  git clone --depth=1 https://github.com/artefactual-labs/arThemeB5Plugin.git plugins/arThemeB5Plugin
+  git clone https://github.com/artefactual-labs/arThemeB5Plugin.git plugins/arThemeB5Plugin
 
   rm -rf plugins/arThemeB5Plugin/.git plugins/arB5ThemePlugin/README.md
   ```
